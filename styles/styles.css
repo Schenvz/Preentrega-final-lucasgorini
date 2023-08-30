@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 10px;
+  font-weight: 100;
+  scroll-behavior: smooth;
+}
+
+.hamburger_menu {
+  color: #ffffff;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.offcanvas {
+  background-color: red;
+}
+
+.offcanvas-body {
+  background-color: red;
+}/*# sourceMappingURL=styles.css.map */

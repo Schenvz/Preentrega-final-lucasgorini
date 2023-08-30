@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 10px;
+	font-weight: 100;
+	scroll-behavior: smooth;
+}
+//Variables de fuente
+$base-font-size:18px;
+$big-font-size:30px;
+//variables de color
+$bg-color-a:red;
+$bg-color-b:green;
+$color-gradient-c: linear-gradient(to top, #ffb347, #ffcc33);
+$color-gradient-d: linear-gradient(to bottom, #8e9eab, #eef2f3);
+$color-gradient-e: linear-gradient(to top, #ada996, #f2f2f2, #dbdbdb, #eaeaea);
+
+
+.hamburger_menu {
+    color: #ffffff;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.offcanvas {
+    background-color: $bg-color-a;
+}
+
+.offcanvas-body {
+    background-color: $bg-color-a;
+}
