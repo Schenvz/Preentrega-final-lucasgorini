@@ -12,8 +12,8 @@
 Propósito
 La página web de Seguros Starnari tiene como objetivo ofrecer información detallada sobre los diferentes tipos de seguros que la empresa ofrece, así como proporcionar una plataforma para que los clientes actuales y potenciales puedan solicitar cotizaciones, gestionar sus pólizas y obtener asistencia en línea.
 
-<br/> <h2>Características Clave</h3>
-<br/>Información de Productos: Descripciones detalladas de los diferentes tipos de seguros disponibles, incluyendo seguros de vida, seguros de auto, seguros de hogar, entre otros.
+<br/> <h2>Características Clave</h2>
+<br/> Descripciones detalladas de los diferentes tipos de seguros disponibles, incluyendo seguros de vida, seguros de auto, seguros de hogar, entre otros.
 
 <br/>Cotizador en Línea: Herramienta interactiva que permite a los usuarios obtener cotizaciones personalizadas según sus necesidades.
 
