@@ -18,3 +18,4 @@ function clearDisplay() {
     displayValue = '';
     document.getElementById('display').value = '';
 }
+
