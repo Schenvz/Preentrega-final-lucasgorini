@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">Página Web de Seguros Starnari</h3>
+  <h1 align="center">Página Web de Seguros Starnari</h1>
   <p align="center"> Este proyecto implementa un sistema de gestión de productos utilizando Node.js. 
     Este documento proporciona una visión general de la página web de Seguros Starnari, incluyendo detalles sobre su propósito, características clave y cómo utilizarla.
     <br/>
