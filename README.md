@@ -21,7 +21,7 @@ La página web de Seguros Starnari tiene como objetivo ofrecer información deta
 
 <br/>Asistencia en Línea: Chat en vivo y sección de preguntas frecuentes para brindar soporte y resolver dudas de los clientes.
 
-<br/><h3>Cómo Utilizar</h3>
+<br/><h2>Cómo Utilizar</h2>
 
 Navegación: Utilice el menú principal en la parte superior de la página para acceder a las diferentes secciones.
 
@@ -38,12 +38,4 @@ Navegador web actualizado (Google Chrome, Mozilla Firefox, Safari, etc.)
 
 Conexión a Internet
 
-<br/><h3>Contacto</h3>
-Para cualquier consulta o asistencia adicional, no dude en ponerse en contacto con nosotros a través de los siguientes medios:
-
-<br/>Teléfono: [Número de Teléfono]
-
-<br/>Correo Electrónico: [Correo Electrónico]
-
-<br/>Chat en Vivo: Disponible en la página web durante horas hábiles.
 
